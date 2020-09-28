@@ -1,9 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Link to site
-
-
-## Available Scripts (https://whatsapp-clone-64096.web.app/)
+## Link to site (https://whatsapp-clone-64096.web.app/)
 
 In the project directory, you can run:
 
