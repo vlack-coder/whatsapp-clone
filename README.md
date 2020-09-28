@@ -4,8 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Builtwith
 Material UI,
+
 Firebase as the backend,
-React Routar Dom for client side routing
+
+React Router Dom for client side routing
 
 In the project directory, you can run:
 
