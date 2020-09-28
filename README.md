@@ -3,9 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Link to site (https://whatsapp-clone-64096.web.app/)
 
 ## Builtwith
-Material UI
-Firebase as the backend
-React Routar Dom for client side routing
+###Material UI,
+###Firebase as the backend,
+###React Routar Dom for client side routing
 
 In the project directory, you can run:
 
