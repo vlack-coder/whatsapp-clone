@@ -9,7 +9,9 @@ Firebase as the backend,
 
 React Router Dom for client side routing
 
-In the project directory, you can run:
+
+
+## In the project directory, you can run:
 
 ### `yarn start`
 
